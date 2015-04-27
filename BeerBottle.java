@@ -3,7 +3,7 @@ package HeadFirstJava;
 /**
  * Created by Сережка on 16.04.2015.
  */
-public class BeerBottle {                         // вношу комментарий
+public class BeerBottle {
     public static void main(String[] args) {
         int beerNum = 99;
         String word = "бутылок";
